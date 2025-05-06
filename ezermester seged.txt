@@ -1,0 +1,33 @@
+p cnf 100 20
+c eresz
+1 2 3 4 5 0 ez
+c kerites
+6 7 8 9 10 0 
+c mosogep
+11 12 13 14 15 0
+c permetezes
+16 17 18 19 20 0 ez
+c tv antenna
+21 22 23 24 25 0
+
+c bukta utca
+26 27 28 29 30 0 
+c jenei utca
+31 32 33 34 35 0  ez
+c malna utca
+36 37 38 39 40 0 
+c rozsika utca
+41 42 43 44 45 0 
+c telepi utca
+46 47 48 49 50 0 ez
+
+c berkes
+51 52 53 54 55 0
+c deri
+56 57 58 59 60 0 
+c feher
+61 62 63 64 65 0 
+c karda
+66 67 68 69 70 0 
+c paszti
+71 72 73 74 75 0
